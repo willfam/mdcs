@@ -36,6 +36,7 @@
     "ag-grid-community": "^34.3.1",
     "angular-oauth2-oidc": "^17.0.2",
     "chart.js": "^4.5.1",
+    "inter-ui": "^4.1.1",
     "ng2-charts": "^6.0.1",
     "ngx-cookie-service": "^21.3.1",
     "ngx-mat-timepicker": "^21.0.1",
